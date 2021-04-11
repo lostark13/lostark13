@@ -1,8 +1,20 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Tushar Bharti's GitHub.</h2>
+<h1 align="center">Hi 👋, I'm Tushar Bharti</h1>
+<h3 align="center">Student</h3>
 
-[![lostark13 github stats](https://github-readme-stats.vercel.app/api?username=lostark13)](https://github.com/lostark13)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lostark13" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostark13&label=Profile%20views&color=0e75b6&style=flat" alt="lostark13" /> </p>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlostark13&longCache=true)](https://github.com/lostark13)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostark13" alt="lostark13" /></a> </p>
 
-![Profile visit badge](https://komarev.com/ghpvc/?username=lostark13&style=flat-square)
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **tushar9915@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostark13&show_icons=true&locale=en&layout=compact" alt="lostark13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lostark13&show_icons=true&locale=en" alt="lostark13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lostark13&" alt="lostark13" /></p>
